@@ -37,7 +37,6 @@ export const THEMES: Record<ThemeName, MonthTheme[]> = {
 
     { bg: "#3e2723", accent: "#ffab00", text: "#fff8e1", particle: "sparkles", label: "November", gradient: "from-amber-600 to-orange-900" },
 
-    // December: Christmas/Guru Nanak Jayanti (Pine Green & Berry Red)
     { bg: "#f5f5f5", accent: "#c62828", text: "#1b5e20", particle: "snow", label: "December", gradient: "from-red-700 to-green-700" },
   ],
   minimal: [
