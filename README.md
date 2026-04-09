@@ -32,13 +32,13 @@
 
 <p align="center">
   
-  <img src="public/season-theme.png" width="45%" />
-  <img src="public/minimal-theme.png" width="45%" />
+  <img src="public/season-themess.png" width="45%" />
+  <img src="public/minimal-themes.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="public/moody-theme.png" width="45%" />
-  <img src="public/festivals-theme.png" width="45%" />
+  <img src="public/moody-themes.png" width="45%" />
+  <img src="public/festivals-themes.png" width="45%" />
   
 </p>
 
