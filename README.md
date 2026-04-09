@@ -31,13 +31,15 @@
 ## 🎨 Themes
 
 <p align="center">
-  <img src="public/festivals-theme.png" width="45%" />
+  
+  <img src="public/seasons-theme.png" width="45%" />
   <img src="public/minimal-theme.png" width="45%" />
 </p>
 
 <p align="center">
   <img src="public/moody-theme.png" width="45%" />
-  <img src="public/seasons-theme.png" width="45%" />
+  <img src="public/festivals-theme.png" width="45%" />
+  
 </p>
 
 ---
