@@ -4,6 +4,17 @@
 
 ---
 
+## 🔄 Traditional vs Modern Calendar
+
+<p align="center">
+  <img src="public/comparison.png" width="90%" />
+</p>
+
+<p align="center">
+  <b>Left:</b> Traditional Wall Calendar &nbsp;&nbsp; | &nbsp;&nbsp;
+  <b>Right:</b> Modern Interactive Calendar
+</p>
+
 ## ✨ Live Demo
 
 🔗 **[View Live →](https://my-wall-calendar-flax.vercel.app/)**  
@@ -11,9 +22,6 @@
 
 
 ## 📸 Preview
-
-
-## 📸 Screenshots
 
 ### 🖥️ Desktop
 <p align="center">
