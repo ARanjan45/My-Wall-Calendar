@@ -6,23 +6,47 @@
 
 ## ✨ Live Demo
 
-🔗 **[View Live →](https://your-deployment-url.vercel.app)**  
-📹 **[Watch Demo Video →](https://your-loom-or-youtube-link.com)**
+🔗 **[View Live →](https://my-wall-calendar-flax.vercel.app/)**  
+📹 **[Watch Demo Video →](https://www.loom.com/share/af235098ce9a4f75b381b641d05d9b11)**
 
-> _(Replace above links with your actual deployment + video links before submitting.)_
-
----
 
 ## 📸 Preview
 
 
-| Desktop View | Mobile View |
-|:---:|:---:|
-| ![Desktop Screenshot](D:\wall-calendar\public\Desktop.png) | ![Tablet Screenshot](D:\wall-calendar\public\ipad.png) |![Mobile Screenshot](D:\wall-calendar\public\phone.png) |
+## 📸 Screenshots
 
-| Theme Switcher | Notes Panel |
-|:---:|:---:|
-| ![Themes](https://via.placeholder.com/400x300?text=Theme+Switcher) | ![Notes](https://via.placeholder.com/400x300?text=Notes+Panel) |
+### 🖥️ Desktop
+<p align="center">
+  <img src="public/Desktop.png" width="70%" />
+</p>
+
+### 📱 Tablet & Mobile
+<p align="center">
+  <img src="public/ipad.png" width="35%" />
+  <img src="public/phone.png" width="20%" />
+</p>
+
+---
+
+## 🎨 Themes
+
+<p align="center">
+  <img src="public/festivals-theme.png" width="45%" />
+  <img src="public/minimal-theme.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="public/moody-theme.png" width="45%" />
+  <img src="public/seasons-theme.png" width="45%" />
+</p>
+
+---
+
+## 📝 Notes Panel
+
+<p align="center">
+  <img src="public/notes.png" width="60%" />
+</p>
 
 ---
 
