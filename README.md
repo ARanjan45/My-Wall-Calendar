@@ -32,7 +32,7 @@
 
 <p align="center">
   
-  <img src="public/seasons-theme.png" width="45%" />
+  <img src="public/season-theme.png" width="45%" />
   <img src="public/minimal-theme.png" width="45%" />
 </p>
 
