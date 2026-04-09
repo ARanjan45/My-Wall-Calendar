@@ -17,7 +17,7 @@
 
 ### 🖥️ Desktop
 <p align="center">
-  <img src="public/Desktop.png" width="70%" />
+  <img src="public/Desktop2.png" width="70%" />
 </p>
 
 ### 📱 Tablet & Mobile
